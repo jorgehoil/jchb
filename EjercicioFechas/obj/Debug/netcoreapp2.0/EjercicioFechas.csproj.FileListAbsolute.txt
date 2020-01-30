@@ -1,0 +1,11 @@
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\bin\Debug\netcoreapp2.0\EjercicioFechas.deps.json
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\bin\Debug\netcoreapp2.0\EjercicioFechas.runtimeconfig.json
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\bin\Debug\netcoreapp2.0\EjercicioFechas.runtimeconfig.dev.json
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\bin\Debug\netcoreapp2.0\EjercicioFechas.dll
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\bin\Debug\netcoreapp2.0\EjercicioFechas.pdb
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.csprojResolveAssemblyReference.cache
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.AssemblyInfoInputs.cache
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.AssemblyInfo.cs
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.dll
+C:\Users\carlos.hoil\source\repos\EjercicioFechas\EjercicioFechas\obj\Debug\netcoreapp2.0\EjercicioFechas.pdb
